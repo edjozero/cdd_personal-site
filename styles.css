@@ -76,3 +76,16 @@ img{
     border-radius: 10px;
     color: #fff;
 }
+
+#social-media{
+    display: flex;
+    justify-content: center;
+}
+
+#social-media ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    margin-bottom: 50px;
+
+}
